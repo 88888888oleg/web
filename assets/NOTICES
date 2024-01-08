@@ -7109,6 +7109,7 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 flutter_lints
+go_router
 vector_graphics
 vector_graphics_codec
 vector_graphics_compiler
